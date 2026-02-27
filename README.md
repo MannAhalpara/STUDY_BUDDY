@@ -8,7 +8,8 @@ An AI-powered Study Buddy application built with Streamlit and Google Gemini API
 2.  **Summarize Notes**: Condense long notes into clear bullet points.
 3.  **Generate Quiz**: Create 5 quiz questions based on your study material.
 4.  **Generate Flashcards**: Generate Q&A flashcards for quick revision.
-
+5.  **PDF Support** : Upload lecture notes or study materials in PDF format to use as a source for any of the features.
+6.  **Download Results** : Export the generated AI content as a .txt file for offline use.
 ## Setup Instructions
 
 ### 1. Prerequisities

@@ -36,5 +36,6 @@ streamlit run app.py
 
 ## Technology Stack
 - **Frontend/Backend**: Python, Streamlit
-- **AI Model**: Google Gemini 1.5 Flash
-- **Dependencies**: `google-generativeai`, `python-dotenv`
+- **AI Model**: Google Gemini 2.5 Flash
+- **PDF Processing** : PyPDF2
+- **Dependencies**: `google-generativeai`, `python-dotenv`, `PyPDF2`, `streamlit`
